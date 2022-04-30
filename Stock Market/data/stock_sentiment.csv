@@ -1,0 +1,547 @@
+ticker,date,time,headline,neg,neu,pos,compound
+SLDP,2022-03-22,04:05PM,"Solid Power, Inc. Announces Full Year 2021 Financial Results",0.0,0.833,0.167,0.1531
+SLDP,2022-03-14,04:05PM,"Solid Power, Inc. Announces Timing of Full Year 2021 Earnings Release and Conference Call",0.0,0.89,0.11,0.1531
+SLDP,2022-02-16,08:00AM,"Solid Power to Present at the Wolfe Research Virtual Global Auto, Auto Tech, and Mobility Conference on Wednesday, February 23, 2022",0.0,0.926,0.074,0.1531
+SLDP,2022-02-14,08:00AM,"Solid Power Appoints Former Cooper-Standard Holdings SVP, Chief Transformation Officer and General Counsel, Aleksandra Miziolek to Board of Directors",0.0,0.918,0.082,0.1531
+SLDP,2022-01-31,01:38PM,"Bourgeon Capital Management Llc Buys PayPal Holdings Inc, The Walt Disney Co, Organon, Sells ...",0.0,1.0,0.0,0.0
+SLDP,2022-01-25,09:38AM,"First Command Financial Services, Inc. Buys Invesco S&P 500 Equal Weight ETF, iShares ...",0.0,1.0,0.0,0.0
+SLDP,2022-01-18,08:00AM,Solid Power Appoints Former Senior NASA Executive Lesa Roe to Board of Directors,0.0,0.882,0.118,0.1531
+SLDP,2022-01-14,06:03PM,2 EV Charging Stocks Gearing up for Gains; Analysts Say Buy,0.0,0.789,0.211,0.34
+SLDP,2022-01-06,08:00AM,"Solid Power to Present at the 24th Annual Needham Virtual Growth Conference on Friday, January 14, 2022",0.0,0.781,0.219,0.4939
+SLDP,2021-12-09,09:34AM,"Colorado startup Solid Power goes public, raises nearly $543M in SPAC deal",0.0,0.873,0.127,0.1531
+USDP,2022-04-21,04:22PM,USD Partners Announces Quarterly Distribution Increase and its First Quarter 2022 Earnings Release Date,0.0,0.85,0.15,0.3182
+USDP,2022-04-06,04:14PM,USD Partners LP Completes Acquisition of Hardisty South Terminal Assets and IDR Elimination,0.0,0.876,0.124,0.1779
+USDP,2022-03-28,11:54AM,USD Partners Acquires Hardisty South Terminal Assets,0.0,0.779,0.221,0.1779
+USDP,2022-03-28,06:44AM,USD Partners LP Announces Acquisition of Hardisty South Terminal Assets From USD Group LLC and IDR Elimination,0.0,0.904,0.096,0.1779
+USDP,2022-03-18,09:24AM,10 Best MLP Dividend Stocks To Buy,0.0,0.588,0.412,0.6369
+USDP,2022-03-07,04:19PM,"USD Partners LP Announces Annual Report on Form 10-K for the Year Ended December 31, 2021, and 2021 Schedule K-1 Availability",0.0,1.0,0.0,0.0
+USDP,2022-03-02,04:24PM,USD Partners LP Announces Fourth Quarter and Full Year 2021 Results,0.0,1.0,0.0,0.0
+USDP,2022-01-26,04:24PM,USD Partners Announces Quarterly Distribution Increase and Its Fourth Quarter 2021 and Full Year 2021 Earnings Release Date,0.0,0.881,0.119,0.3182
+USDP,2022-01-18,04:50PM,USD Partners Announces Five Year Ethanol Customer Renewal at its West Colton Terminal; Commencement of Renewable Diesel Operations,0.0,1.0,0.0,0.0
+USDP,2021-12-15,05:06PM,USD Partners and US Development Group Issue Operational Update and Launch of New Website,0.0,1.0,0.0,0.0
+USDP,2021-11-02,04:33PM,USD Partners LP Announces Third Quarter 2021 Results,0.0,1.0,0.0,0.0
+USDP,2021-10-21,04:35PM,USD Partners Announces Quarterly Distribution Increase and its Third Quarter 2021 Earnings Release Date,0.0,0.85,0.15,0.3182
+USDP,2021-09-22,04:21PM,USD Partners Issues Updated Investor Presentation,0.0,1.0,0.0,0.0
+USDP,2021-09-21,07:35AM,Sidoti - Fall Virtual Small Cap Investor Conference,0.0,1.0,0.0,0.0
+USDP,2021-08-18,04:18PM,USD Partners to Participate in Citi One-on-One Midstream / Energy Infrastructure Virtual Conference on August 19th and Issues Updated Investor Presentation,0.0,0.9,0.1,0.2732
+USDP,2021-08-16,04:21PM,USD Partners Announces Increased Connectivity at Its Stroud Terminal at the Cushing Hub,0.0,0.851,0.149,0.2732
+USDP,2021-08-04,04:20PM,USD Partners LP Announces Second Quarter 2021 Results,0.0,1.0,0.0,0.0
+USDP,2021-07-21,04:18PM,USD Partners Announces Quarterly Distribution Increase and its Second Quarter 2021 Earnings Release Date,0.0,0.85,0.15,0.3182
+USDP,2021-06-28,04:20PM,USD Partners Announces New Renewable Diesel Contract at West Colton Terminal and the Creation by US Development Group of USD Clean Fuels LLC to Provide Production and Logistics Solutions to Clean Energy Industry,0.0,0.712,0.288,0.8519
+USDP,2021-05-18,10:10AM,10 Best Railroad Stocks to Buy in 2021,0.0,0.625,0.375,0.6369
+USDP,2021-05-17,04:24PM,USD Partners to Attend 2021 EIC Investor Conference in Las Vegas,0.0,1.0,0.0,0.0
+USDP,2021-05-05,04:41PM,USD Partners LP Announces First Quarter 2021 Results,0.0,1.0,0.0,0.0
+USDP,2021-04-22,04:26PM,"USD Partners Announces Quarterly Distribution Increase, Full-Year Distribution Guidance and Its First Quarter 2021 Earnings Release Date",0.0,0.874,0.126,0.3182
+USDP,2021-03-15,04:34PM,"USD Partners LP Announces Annual Report on Form 10-K for the Year Ended December 31, 2020, and 2020 Schedule K-1 Availability",0.0,1.0,0.0,0.0
+USDP,2021-03-04,08:45AM,USD Partners LP to Host Earnings Call,0.0,1.0,0.0,0.0
+USDP,2021-03-03,04:29PM,USD Partners LP Announces Fourth Quarter and Full Year 2020 Results,0.0,1.0,0.0,0.0
+USDP,2021-02-02,12:25PM,3 Stocks That Could Represent Bargain Opportunities,0.0,0.476,0.524,0.5267
+USDP,2021-01-28,04:25PM,USD Partners Announces Quarterly Distribution and Fourth Quarter 2020 Earnings Release Date,0.0,1.0,0.0,0.0
+USDP,2021-01-05,04:36PM,USD Partners to Participate in Goldman Sachs Virtual Investor Conference on January 6th and 7th and Issues New Investor Presentation,0.0,1.0,0.0,0.0
+USDP,2020-11-26,08:06PM,Is USD Partners LP (USDP) A Good Stock To Buy?,0.0,0.734,0.266,0.4404
+USDP,2020-11-06,07:30PM,USD Partners LP (USDP) Q3 2020 Earnings Call Transcript,0.0,1.0,0.0,0.0
+USDP,2020-11-04,04:31PM,USD Partners LP Announces Third Quarter 2020 Results,0.0,1.0,0.0,0.0
+USDP,2020-10-22,04:27PM,USD Partners Announces Quarterly Distribution and Third Quarter 2020 Earnings Release Date,0.0,1.0,0.0,0.0
+USDP,2020-08-10,04:21PM,USD Partners to Participate in Goldman Sachs and Citi Virtual Investor Conferences on August 11th and 12th and Issues New Investor Presentation,0.0,1.0,0.0,0.0
+USDP,2020-08-05,04:47PM,USD Partners LP Announces Second Quarter 2020 Results,0.0,1.0,0.0,0.0
+USDP,2020-07-23,04:28PM,USD Partners Announces Quarterly Distribution and Second Quarter 2020 Earnings Release Date,0.0,1.0,0.0,0.0
+USDP,2020-06-04,12:10PM,Edited Transcript of USDP earnings conference call or presentation 7-May-20 3:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2020-05-08,10:30AM,USD Partners LP (USDP) Q1 2020 Earnings Call Transcript,0.0,1.0,0.0,0.0
+USDP,2020-05-06,04:34PM,USD Partners LP Announces First Quarter 2020 Results,0.0,1.0,0.0,0.0
+USDP,2020-04-23,04:31PM,USD Partners Announces Reduction of Quarterly Distribution as Prudent Measure to Reduce Debt and Releases First Quarter 2020 Earnings Date,0.116,0.884,0.0,-0.3612
+USDP,2020-04-01,01:42AM,Edited Transcript of USDP earnings conference call or presentation 5-Mar-20 4:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2020-03-17,06:34PM,USD Partners LP Affirms Terminals Remain Fully Operational and Reaffirms Customer Profile,0.0,1.0,0.0,0.0
+USDP,2020-03-13,08:30AM,Alerian Index Series March 2020 Index Review,0.0,1.0,0.0,0.0
+USDP,2020-03-09,05:16PM,Construction Of Alberta Crude Unit Expected To Start In April,0.291,0.709,0.0,-0.5719
+USDP,2020-03-05,05:34PM,"USD Partners LP Announces Annual Report on Form 10-K for the Year Ended December 31, 2019, and 2019 Schedule K-1 Availability",0.0,1.0,0.0,0.0
+USDP,2020-03-04,04:33PM,USD Partners LP Announces Fourth Quarter and Full Year 2019 Results,0.0,1.0,0.0,0.0
+USDP,2020-01-30,04:23PM,USD Partners Announces Nineteenth Consecutive Quarterly Distribution Increase to $0.37 Per Unit and Fourth Quarter 2019 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2019-12-03,05:09PM,USD Partners Announces Long-Term Contract Extensions with ConocoPhillips Associated with its Sponsors Joint Venture with Gibson Energy to Construct a DRU at its Hardisty Terminal,0.0,0.916,0.084,0.2732
+USDP,2019-12-02,05:00AM,Edited Transcript of USDP earnings conference call or presentation 7-Nov-19 4:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2019-11-28,10:44PM,USD Partners LP (USDP): Hedge Funds In Wait-and-See Mode,0.0,1.0,0.0,0.0
+USDP,2019-11-06,04:39PM,USD Partners LP Announces Third Quarter 2019 Results,0.0,1.0,0.0,0.0
+USDP,2019-10-24,04:33PM,USD Partners Announces Eighteenth Consecutive Quarterly Distribution Increase to $0.3675 per Unit and Third Quarter 2019 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2019-08-14,04:24AM,Edited Transcript of USDP earnings conference call or presentation 6-Aug-19 3:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2019-08-13,04:30PM,USD Partners to Attend 2019 Citi Midstream / Energy Infrastructure Conference,0.0,0.811,0.189,0.2732
+USDP,2019-08-09,12:41PM,"Alerian Reports June 30, 2019 Index Linked Product Positions",0.0,1.0,0.0,0.0
+USDP,2019-08-06,03:19PM,USD Partners LP (USDP) Q2 2019 Earnings Call Transcript,0.0,1.0,0.0,0.0
+USDP,2019-08-05,04:58PM,USD Partners LP Announces Second Quarter 2019 Results,0.0,1.0,0.0,0.0
+USDP,2019-07-24,04:27PM,USD Partners Announces Seventeenth Consecutive Quarterly Distribution Increase to $0.3650 per Unit and Second Quarter 2019 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2019-05-13,06:32PM,USD Partners LP (USDP) Earnings Call Transcript,0.0,1.0,0.0,0.0
+USDP,2019-05-13,04:23PM,USD Partners to Attend MLPA 2019 MLP and Energy Infrastructure Conference in Las Vegas,0.0,0.861,0.139,0.2732
+USDP,2019-05-13,09:52AM,Edited Transcript of USDP earnings conference call or presentation 7-May-19 3:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2019-05-06,05:10PM,USD Partners LP Announces First Quarter 2019 Results,0.0,1.0,0.0,0.0
+USDP,2019-04-26,04:22PM,USD Partners Announces Sixteenth Consecutive Quarterly Distribution Increase to $0.3625 Per Unit and First Quarter 2019 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2019-03-22,01:16PM,Alberta Discovers That Playing OPEC Isnt Easy,0.261,0.543,0.196,-0.1546
+USDP,2019-03-21,04:56PM,"USD Partners LP Announces Annual Report on Form 10-K for the Year Ended December 31, 2018, and 2018 Schedule K-1 Availability",0.0,1.0,0.0,0.0
+USDP,2019-03-12,03:26PM,Edited Transcript of USDP earnings conference call or presentation 7-Mar-19 4:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2019-03-07,01:23PM,USD Partners LP (USDP) Q4 2018 Earnings Conference Call Transcript,0.0,1.0,0.0,0.0
+USDP,2019-03-06,05:43PM,USD Partners LP Announces Fourth Quarter and Full Year 2018 Results,0.0,1.0,0.0,0.0
+USDP,2019-02-01,12:37PM,"Alerian Reports December 31, 2018 Index Linked Product Positions",0.0,1.0,0.0,0.0
+USDP,2019-01-31,04:18PM,USD Partners Announces Fifteenth Consecutive Quarterly Distribution Increase to $0.36 Per Unit and Fourth Quarter 2018 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2019-01-04,10:32AM,Top Ranked Income Stocks to Buy for January 4th,0.0,0.816,0.184,0.2023
+USDP,2018-12-27,04:56PM,Edited Transcript of USDP earnings conference call or presentation 6-Nov-18 4:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2018-12-12,06:35AM,USD Partners Announces New Contract Supporting the Construction of Pipeline Connection and Additional Storage Capacity at Casper Terminal,0.0,0.854,0.146,0.4404
+USDP,2018-11-14,08:50AM,"New Research Coverage Highlights Kandi Technologies Group, AquaVenture, Bridgeline Digital, VolitionRX, USD Partners LP, and ZK International Group Co.  Consolidated Revenues, Company Growth, and Expectations for 2018",0.0,0.909,0.091,0.3818
+USDP,2018-11-05,04:21PM,USD Partners LP Announces Third Quarter 2018 Results and Recent Commercial Developments,0.0,1.0,0.0,0.0
+USDP,2018-10-25,04:27PM,USD Partners Announces Fourteenth Consecutive Quarterly Distribution Increase to $0.3575 per Unit and Third Quarter 2018 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2018-10-17,09:10AM,Is USD Partners LP (USDP) Stock Undervalued Right Now?,0.0,1.0,0.0,0.0
+USDP,2018-09-27,10:10AM,Cenovus Energy (CVE) Agrees to Transport Heavy Oil by Rail,0.0,0.672,0.328,0.4404
+USDP,2018-09-26,05:14PM,USD Partners Announces Second Multi-Year Contract Extension at Hardisty Terminal,0.0,1.0,0.0,0.0
+USDP,2018-08-20,11:45PM,Edited Transcript of USDP earnings conference call or presentation 7-Aug-18 3:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2018-08-14,04:15PM,USD Partners to Attend 2018 Citi MLP/Midstream Infrastructure Conference,0.0,1.0,0.0,0.0
+USDP,2018-08-07,09:00AM,USD Partners LP to Host Earnings Call,0.0,1.0,0.0,0.0
+USDP,2018-08-06,04:54PM,USD Partners LP Announces Second Quarter 2018 Results,0.0,1.0,0.0,0.0
+USDP,2018-07-27,04:18PM,USD Partners Announces Thirteenth Consecutive Quarterly Distribution Increase to $0.3550 per Unit and Second Quarter 2018 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2018-06-26,06:45AM,USD Partners Announces Contract Extension at Hardisty Terminal,0.0,1.0,0.0,0.0
+USDP,2018-06-11,03:54PM,Analyst: Regional Dynamics Support The Bullish Case For USD Partners,0.0,0.625,0.375,0.5859
+USDP,2018-06-07,06:45AM,USD Announces Execution of Five-year Terminalling Services Agreement with New Refiner Customer at Hardisty,0.0,0.802,0.198,0.4939
+USDP,2018-05-21,04:30PM,USD Partners to Attend 2018 MLPA MLP and Energy Infrastructure Conference,0.0,0.826,0.174,0.2732
+USDP,2018-05-13,11:46PM,Edited Transcript of USDP earnings conference call or presentation 8-May-18 3:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2018-05-07,04:55PM,USD Partners LP Announces First Quarter 2018 Results,0.0,1.0,0.0,0.0
+USDP,2018-04-26,04:48PM,USD Partners Announces Twelfth Consecutive Quarterly Distribution Increase to $0.3525 Per Unit and First Quarter 2018 Earnings Release Date,0.0,0.887,0.113,0.3182
+USDP,2018-04-02,07:20AM,Free Research Report as Wabtecs Quarterly Sales Surged 42%,0.0,0.708,0.292,0.5106
+USDP,2018-03-12,07:16PM,Edited Transcript of USDP earnings conference call or presentation 9-Mar-18 4:00pm GMT,0.0,1.0,0.0,0.0
+USDP,2018-03-12,10:37AM,"USD Partners LP Announces Annual Report on Form 10-K for the Year Ended December 31, 2017, and 2017 Schedule K-1 Availability",0.0,1.0,0.0,0.0
+USDP,2018-03-09,09:00AM,USD Partners LP to Host Earnings Call,0.0,1.0,0.0,0.0
+USDP,2018-03-08,04:32PM,USD Partners LP Announces Fourth Quarter and Full Year 2017 Results,0.0,1.0,0.0,0.0
+USDP,2018-02-23,10:05AM,[$$] Tax Cuts and Confidence Drive Surge of Hikes,0.176,0.56,0.264,0.2732
+USDP,2018-02-22,05:13PM,USD Partners to Attend 2018 Barclays MLP Corporate Access Days in New York City,0.0,1.0,0.0,0.0
+USDP,2018-02-01,04:23PM,USD Partners Announces Eleventh Consecutive Quarterly Distribution Increase to $0.35 per Unit and Fourth Quarter Earnings Release Date,0.0,0.881,0.119,0.3182
+USDP,2018-01-04,08:20AM,"USD Partners LP :USDP-US: Earnings Analysis: Q3, 2017 By the Numbers : January 4, 2018",0.0,1.0,0.0,0.0
+ACHR,2022-04-27,01:37PM,Archer and United Airlines Form Joint eVTOL Advisory Committee to Support Archers Future Airline Operations,0.0,0.703,0.297,0.6705
+ACHR,2022-04-27,01:24PM,Video Highlights  Embraer Embraces eVTOLs: Join Eve Co-CEOs in Fireside Chat,0.0,0.82,0.18,0.296
+ACHR,2022-04-25,03:59PM,Replay  Embraer Embraces eVTOLs: Join Eve Co-CEOs in Fireside Chat,0.0,0.804,0.196,0.296
+ACHR,2022-04-21,11:21AM,Embraer Embraces eVTOLs: Join Eve Co-CEOs in Fireside Chat Apr 25 at 2PM ET,0.0,0.855,0.145,0.296
+ACHR,2022-04-18,06:01PM,Archer Aviation Announces Leadership Transition; Appoints Adam Goldstein Sole CEO,0.0,1.0,0.0,0.0
+ACHR,2022-04-13,01:09PM,Passengers should 'try to smile and be caring': former United Airlines CEO on flying,0.0,0.694,0.306,0.6486
+ACHR,2022-04-13,11:46AM,"Airlines are recovering 'slowly but surely, former United Airlines CEO says",0.0,0.544,0.456,0.8201
+ACHR,2022-04-07,07:00AM,Archer Aviation Plans to Work With Hexcel to Advance Production Capabilities,0.0,1.0,0.0,0.0
+ACHR,2022-03-18,03:25PM,The Funded: The investor who took Archer Aviation public in a blank-check merger canceled his IPO plans for 2 other SPACs,0.0,1.0,0.0,0.0
+ACHR,2022-03-18,06:51AM,Tesla could eventually make flying aircrafts: analyst,0.0,1.0,0.0,0.0
+ACHR,2022-03-17,08:45AM,A Look At The Fair Value Of Archer Aviation Inc. (NYSE:ACHR),0.0,0.63,0.37,0.5719
+ACHR,2022-03-14,04:32PM,Archer Announces Fourth Quarter and Full Year 2021 Results,0.0,1.0,0.0,0.0
+ACHR,2022-03-07,04:05PM,"Archer to Report Fourth Quarter and Full Year 2021 Financial Results on March 14, 2022",0.0,1.0,0.0,0.0
+ACHR,2022-02-22,10:04AM,Cathie Wood Loads Up on These 3 Stocks With Triple-Digit Upside,0.0,1.0,0.0,0.0
+ACHR,2022-02-07,08:38PM,"Kayne Anderson Capital Advisors Lp Buys ReNew Energy Global PLC, Aris Water Solutions Inc, Hess ...",0.0,0.787,0.213,0.4215
+ACHR,2022-02-03,07:00AM,U.S. Attorney Decides Not to Bring Charges Against Archer Employee Who Is Central Focus of Wisks Civil Lawsuit Against Archer,0.088,0.829,0.084,-0.0222
+ACHR,2022-02-03,07:00AM,Archer: Feds won't press charges against engineer who rival accused of stealing air taxi secrets,0.299,0.609,0.092,-0.6232
+ACHR,2022-02-02,07:00AM,"Archer Appoints Barbara Pilarski, Global Head of Business Development at Stellantis, to Board of Directors",0.0,1.0,0.0,0.0
+ACHR,2022-01-27,12:00PM,Archer Announces New Appointments to Technical Advisory Board,0.0,1.0,0.0,0.0
+ACHR,2022-01-24,10:26AM,Boeing adds $450M to its investment in Mountain View air taxi unicorn Wisk,0.0,1.0,0.0,0.0
+ACHR,2022-01-21,05:00PM,Archer Appoints Mark Mesler as Chief Financial Officer,0.0,1.0,0.0,0.0
+ACHR,2022-01-21,10:25AM,Why drone guru Chris Anderson sees future in Larry Page's self-flying air taxis,0.0,1.0,0.0,0.0
+ACHR,2022-01-19,10:02AM,Vinson & Elkins Expands Global Finance Practice With New Aviation Finance Group,0.0,0.877,0.123,0.1027
+ACHR,2021-12-21,12:52PM,Former United Airlines CEO on traveling during COVID-19 pandemic: It's airlines' jobs to keep you safe,0.0,0.711,0.289,0.6908
+ACHR,2021-12-21,11:14AM,"Urban air mobility is something that we see on the horizon, Former United Airlines CEO says",0.0,0.843,0.157,0.4215
+ACHR,2021-12-20,09:00AM,Archer Takes to the Skies with First Hover Flight of Maker Aircraft,0.0,1.0,0.0,0.0
+ACHR,2021-12-17,04:29AM,Do Institutions Own Archer Aviation Inc. (NYSE:ACHR) Shares?,0.0,0.761,0.239,0.296
+ACHR,2021-12-09,10:31AM,"Apple car unit loses key engineers to Joby, Archer air taxi upstarts",0.173,0.827,0.0,-0.3182
+ACHR,2021-12-02,09:00AM,Archer Receives Special Airworthiness Certificate for its Maker eVTOL Aircraft Following Successful FAA Inspection,0.0,0.649,0.351,0.7579
+ACHR,2021-11-23,02:18PM,Archer Assembles Best-in-Class Flight Control and Software Team as it Propels Towards First Flight,0.0,1.0,0.0,0.0
+ACHR,2021-11-11,04:01PM,Archer Aviation Inc. Announces Third Quarter 2021 Results,0.0,1.0,0.0,0.0
+ACHR,2021-11-10,09:00AM,"Ahead of First Hover Flight, Maker Aircraft Receives FAA COA and Relocates from Development Lab to Flight Test Facility",0.0,1.0,0.0,0.0
+ACHR,2021-11-02,09:00AM,"Archer Expands Electric Motor Team as Maker Prepares for First Flight Milestone, Hiring Alan Tepe to Lead Propulsion Inverter Design and Jeremy Mayer to Lead Motor Design Development",0.0,0.951,0.049,0.1027
+ACHR,2021-10-25,04:20PM,Archer Announces Date for Release of Q3'21 Financial Results,0.0,1.0,0.0,0.0
+ACHR,2021-09-20,04:26PM,Archer Aviation Co-Founders discuss when to expect electric vertical takeoff,0.0,1.0,0.0,0.0
+ACHR,2021-09-20,09:38AM,Archer Rings Opening Bell to Celebrate the Closing of its Business Combination and Listing on the NYSE,0.0,0.812,0.188,0.5719
+WRAP,2022-04-25,10:30AM,"Wrap Technologies, Inc. Announces Release Date for First Quarter 2022 Results",0.0,1.0,0.0,0.0
+WRAP,2022-04-25,08:50AM,Wrap Technologies Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4),0.0,0.783,0.217,0.3612
+WRAP,2022-04-18,09:00AM,"Wrap Technologies expands Tempe leadership team with new president, CEO",0.0,0.865,0.135,0.1027
+WRAP,2022-04-18,09:00AM,Wrap Technologies Appoints TJ Kennedy as CEO and Kevin Mullins as President,0.0,1.0,0.0,0.0
+WRAP,2022-04-04,09:55AM,Penny Stocks to Watch in April 2022,0.0,1.0,0.0,0.0
+WRAP,2022-03-23,01:15PM,"Wrap Technologies to Participate in the 2022 Virtual Growth Conference by Maxim Group LLC on March 28-30, 2022",0.0,0.867,0.133,0.3818
+WRAP,2022-03-21,05:01PM,"Do Institutions Own Wrap Technologies, Inc. (NASDAQ:WRAP) Shares?",0.0,0.761,0.239,0.296
+WRAP,2022-03-10,04:02PM,Wrap Technologies Reports Fourth Quarter and Full-Year 2021 Results,0.0,1.0,0.0,0.0
+WRAP,2022-03-08,12:57PM,"Wrap Technologies to Present at the 34th Annual Roth Conference on March 13-15, 2022",0.0,1.0,0.0,0.0
+WRAP,2022-03-01,09:04AM,Wrap Technologies Announces Release Date for Fourth Quarter and Full Year Fiscal 2021 Results,0.0,1.0,0.0,0.0
+WRAP,2022-01-31,09:12AM,WRAP Receives Largest Subscription Order to Date for its WRAP Reality Virtual Training Platform,0.0,1.0,0.0,0.0
+WRAP,2022-01-24,08:00AM,Wrap Technologies Announces Leadership Transition Plan to Support Next Phase of Corporate Strategy,0.0,0.816,0.184,0.4019
+WRAP,2022-01-20,09:47AM,"WRAP Releases New Body Cam Video Deployment of BolaWrap in Pembroke Pines, Florida",0.0,1.0,0.0,0.0
+WRAP,2022-01-19,09:18AM,"Wrap Technologies to Present at Take Aim: Lake Streets Shooting Sports and Public Safety Event on January 26, 2022",0.0,0.865,0.135,0.4215
+WRAP,2022-01-13,09:08AM,Edenton Police Department Hosts Wrap Reality Virtual Training Platform Demonstrations for its Neighboring Law Enforcement Agencies,0.0,1.0,0.0,0.0
+WRAP,2022-01-11,09:47AM,Body Cam Video Demonstrates Successful Double Deployment of BolaWrap to Safely Restrain Disruptive Subject,0.113,0.542,0.345,0.6908
+WRAP,2022-01-10,09:17AM,WRAP Receives First Order Through the Arizona Municipal Risk Retention Pool Funding Program,0.149,0.851,0.0,-0.2732
+WRAP,2022-01-06,09:03AM,Wrap Technologies to Present at the Needham Virtual Growth Conference on January 11,0.0,0.822,0.178,0.3818
+WRAP,2022-01-05,09:12AM,"WRAP Announces International Sale of 15,000 Cartridges for its BolaWrap Remote Restraint Device",0.0,1.0,0.0,0.0
+WRAP,2022-01-04,09:48AM,WRAP Announces Reorder of Next Generation BolaWrap 150 by the Dominican Republic Ministry of Defense,0.0,0.903,0.097,0.128
+WRAP,2022-01-03,11:00AM,Wrap Technologies Announces Partnership to Share Virtual Reality Technology with Pennsylvania and New York Law Enforcement,0.0,0.872,0.128,0.296
+WRAP,2021-12-27,09:08AM,WRAP Announces First International Shipment of its Next-Generation BolaWrap 150 Remote Restraint Devices,0.0,1.0,0.0,0.0
+WRAP,2021-12-22,09:04AM,Wrap Technologies Announces Dismissal of Securities Class Action Complaint with Prejudice,0.35,0.51,0.14,-0.5106
+WRAP,2021-12-16,12:21PM,"The Arizona Municipal Risk Retention Pool Approves Funding to Help Outfit 1,800+ Police Officers with BolaWrap Remote Restraint Devices",0.089,0.681,0.23,0.5106
+WRAP,2021-12-06,09:42AM,Wrap Technologies to Present at the Benzinga Global Small Cap Conference on December 9,0.0,1.0,0.0,0.0
+WRAP,2021-11-19,11:50AM,Those who invested in Wrap Technologies (NASDAQ:WRAP) three years ago are up 29%,0.0,1.0,0.0,0.0
+WRAP,2021-11-18,09:05AM,Wrap Technologies Provides Update on Securities Class Action Complaint,0.193,0.614,0.193,0.0
+WRAP,2021-11-15,09:43AM,Wrap Technologies to Present at the Inflection Partners Excellence in Execution Conference on November 17,0.0,0.773,0.227,0.6249
+WRAP,2021-11-10,09:57AM,WRAPs New BolaWrap® 150 Device Receives Classification from Royal Canadian Mounted Police (RCMP),0.0,1.0,0.0,0.0
+WRAP,2021-11-09,09:47AM,WRAP Reports First Law Enforcement Agency in Canada with Active-Duty Officers Carrying BolaWrap®,0.0,1.0,0.0,0.0
+WRAP,2021-11-08,09:42AM,Indianapolis Metro Police Department Successfully Deploys BolaWrap® Safely Restraining Subject in Crisis,0.21,0.462,0.328,0.3182
+WRAP,2021-11-04,10:37AM,Wrap Technologies to Present at Ladenburg Thalmann Virtual Technology Expo on November 18th,0.0,1.0,0.0,0.0
+WRAP,2021-10-29,09:07AM,WRAP Receives Largest Single International Order,0.0,1.0,0.0,0.0
+WRAP,2021-10-28,04:03PM,Wrap Technologies Reports Third Quarter 2021 Results,0.0,1.0,0.0,0.0
+WRAP,2021-10-19,01:54PM,Indianas First Police Agency Takes the Lead with Wrap Reality,0.0,1.0,0.0,0.0
+WRAP,2021-10-14,09:04AM,"WRAP Technologies Sets Third Quarter 2021 Conference Webcast for Thursday, October 28 at 4:30 PM ET",0.0,1.0,0.0,0.0
+WRAP,2021-10-12,01:37PM,WRAP Unveils Highly-Anticipated Next Generation BolaWrap® 150 Remote Restraint Device,0.0,1.0,0.0,0.0
+WRAP,2021-10-06,03:34PM,WRAP to Present at Benzinga Rising Stars: Catalytic Small Cap Growth Conference,0.0,0.809,0.191,0.3818
+WRAP,2021-10-05,09:24AM,WRAP to Introduce its Next Generation BolaWrap®,0.0,1.0,0.0,0.0
+WRAP,2021-10-04,10:44AM,Two New Bodycam Videos Highlight WRAPs BolaWrap® Effectiveness For Safer Policing Outcomes,0.0,0.658,0.342,0.6369
+WRAP,2021-10-01,08:44AM,WRAP to Present at Two Upcoming Investor Conferences,0.0,1.0,0.0,0.0
+WRAP,2021-09-20,11:25AM,WRAP Appoints UK Government Adviser and Law Enforcement Veteran as Vice President of International Customer Relations,0.0,1.0,0.0,0.0
+WRAP,2021-09-14,11:28AM,"Washington, D.C. Area Officers Effectively Deploy BolaWrap® to Help Safely End Encounter",0.0,0.506,0.494,0.8316
+WRAP,2021-09-10,12:20PM,Officers Successfully Deploy WRAPs BolaWrap® to Help Restrain Violent Subject in Crisis in Washington,0.335,0.418,0.247,-0.4767
+WRAP,2021-09-09,12:35PM,"Genova, Italy Police Department Deployment of WRAPs BolaWrap® Announced",0.0,1.0,0.0,0.0
+WRAP,2021-09-07,09:43AM,WRAP to Participate in Colliers Securities Institutional and H.C. Wainwright Global Investment Conferences (Virtual),0.0,0.855,0.145,0.296
+WRAP,2021-09-01,10:03AM,Houston Police Deploy Two BolaWrap® Devices Simultaneously to Help Safely Restrain Subject,0.0,0.629,0.371,0.7096
+WRAP,2021-08-31,12:11PM,Virtual Reality Executive Clark Dever Named VP of Product Management for Wrap Reality,0.0,1.0,0.0,0.0
+WRAP,2021-08-26,12:20PM,WRAP Announces Initial Miami Police Department Order for BolaWrap® Remote Restraint Devices,0.0,1.0,0.0,0.0
+WRAP,2021-08-25,11:34AM,WRAP Holds Thought Leadership Discussion with Amazon Web Services Executive and Miami Police Chief on the Future of VR Training in Law Enforcement,0.0,0.928,0.072,0.1779
+WRAP,2021-08-23,12:34PM,Royal Canadian Mounted Police (RCMP) Classification of WRAPs BolaWrap® Device Expected to Broaden Sales in Canada,0.0,1.0,0.0,0.0
+WRAP,2021-08-17,10:35AM,New Bodycam Footage of Officers Using WRAPs BolaWrap® to Help De-escalate Crisis Situation,0.23,0.618,0.152,-0.34
+WRAP,2021-08-12,10:07AM,WRAP Appoints Law Enforcement Industry Veteran Mario Knapp as Vice President of Training,0.0,1.0,0.0,0.0
+WRAP,2021-08-11,02:04PM,"WRAP to Join Benzinga All Access Show on Friday, August 13, 2021",0.0,0.833,0.167,0.296
+WRAP,2021-08-10,11:44AM,Colorado Officers Successfully Deploy WRAPs BolaWrap® to Restrain Woman in Crisis,0.252,0.552,0.196,-0.2263
+WRAP,2021-08-09,01:55PM,"WRAP Publishes Initial Environmental, Social and Governance Letter",0.0,1.0,0.0,0.0
+WRAP,2021-08-05,10:13AM,WRAP Reports Hillsborough Sheriff Department Purchases BolaWrap® Devices Following Successful Pilot Program,0.0,0.743,0.257,0.5859
+WRAP,2021-08-04,10:17AM,WRAP Announces Largest Single Purchase Order for BolaWrap® Remote Restraint Devices,0.0,1.0,0.0,0.0
+WRAP,2021-08-04,09:56AM,"What Percentage Of Wrap Technologies, Inc. (NASDAQ:WRAP) Shares Do Insiders Own?",0.0,0.82,0.18,0.296
+WRAP,2021-08-02,09:25AM,WRAP Announces New VR Training Platform Powered by Amazon Web Services,0.0,0.855,0.145,0.1779
+WRAP,2021-07-29,04:02PM,Wrap Technologies Reports Second Quarter 2021 Results,0.0,1.0,0.0,0.0
+WRAP,2021-07-20,10:44AM,WRAP Applauds House Appropriations Committee Report,0.0,0.676,0.324,0.34
+WRAP,2021-07-20,08:44AM,"WRAP Sets Second Quarter 2021 Conference Webcast for Thursday, July 29 at 4:30 PM ET",0.0,1.0,0.0,0.0
+WRAP,2021-07-14,10:43AM,WRAP Joins United Nations Global Compact,0.0,0.641,0.359,0.4215
+WRAP,2021-07-02,03:01PM,WRAP Appoints Public Safety Technology Executive Glenn Hickman as Chief Operating Officer,0.0,0.797,0.203,0.4215
+WRAP,2021-06-30,02:11PM,Princeton Police Department to Implement WRAP Reality Virtual Training Platform,0.0,1.0,0.0,0.0
+WRAP,2021-06-21,09:53AM,WRAP to Hold Virtual 2021 Annual Meeting of Stockholders,0.0,1.0,0.0,0.0
+WRAP,2021-06-21,08:42AM,Wrap Technologies Announces Expiration of Warrants; 99% of Warrants Exercised Providing $12.5 Million in Proceeds,0.0,1.0,0.0,0.0
+WRAP,2021-06-17,09:50AM,Officers Deploy BolaWrap® to Help Prevent Suicide by Cop Attempt in Ohio,0.26,0.52,0.22,-0.4019
+WRAP,2021-06-16,09:43AM,WRAP to Participate in Safer Use of Force Discussion at United Kingdom Healthcares Restraint & Safety Conference,0.0,0.607,0.393,0.8126
+WRAP,2021-06-11,02:20PM,"WRAP Demonstrates the BolaWrap® for Miami Police Department, City Commissioners, and Mayor",0.0,1.0,0.0,0.0
+WRAP,2021-06-10,10:07AM,Officers Use BolaWrap® on Subject in Crisis in Virginia,0.339,0.661,0.0,-0.6249
+WRAP,2021-06-09,09:53AM,"WRAP to Highlight Law Enforcement Solutions at Lytham Partners Summer 2021 Investor Conference on June 16, 2021 at 3:30 p.m. ET",0.0,0.823,0.177,0.4767
+WRAP,2021-06-08,09:33AM,BolaWrap® First Hometown Use  Safely Assists Officers to Restrain Moving Subject,0.0,0.758,0.242,0.4939
+WRAP,2021-06-04,02:02PM,WRAP Provides Update on LAPD BolaWrap Pilot Program Extension,0.0,1.0,0.0,0.0
+WRAP,2021-06-03,01:21PM,BolaWrap® Remote Restraint Devices Approved for Sale in Italy,0.0,0.741,0.259,0.4215
+WRAP,2021-06-02,03:02PM,"WRAP to Present its Law Enforcement Technologies at LD Micro Invitational XI on June 10, 2021, at 5:00 p.m. ET",0.0,1.0,0.0,0.0
+WRAP,2021-05-27,12:33PM,WRAP Reports Successful Deployment of BolaWrap® Used on Fleeing Subject Outside Seattle,0.0,0.743,0.257,0.5859
+WRAP,2021-05-26,10:15AM,WRAP Announces Seattle Police Department Approval of BolaWrap® Pilot Program,0.0,0.744,0.256,0.4767
+WRAP,2021-05-20,09:04AM,First Agency Deploys De-escalation Platform of WRAP Reality and BolaWrap,0.0,1.0,0.0,0.0
+WRAP,2021-05-13,11:40AM,Officers Use BolaWrap® to Restrain Subject After Mother Calls About Son in Crisis,0.255,0.745,0.0,-0.6249
+WRAP,2021-05-07,08:30AM,"WRAP to Showcase its Law Enforcement Technologies at Benzinga Global Small Cap Conference on May 14, 2021, at 11:35 a.m. ET",0.0,1.0,0.0,0.0
+WRAP,2021-05-06,12:07PM,BolaWrap De-escalates Volatile Situation in Pennsylvania,0.0,1.0,0.0,0.0
+WRAP,2021-05-05,12:51PM,WRAP Reports on Documented BolaWrap Remote Restraint Device Field Uses,0.0,1.0,0.0,0.0
+WRAP,2021-05-04,04:54PM,LAPD Board of Police Commissioners Approves One-Year BolaWrap Pilot Program Extension,0.0,0.787,0.213,0.4019
+WRAP,2021-05-04,10:45AM,Does Wrap Technologies' (NASDAQ:WRAP) Share Price Gain of 32% Match Its Business Performance?,0.0,0.663,0.337,0.6808
+WRAP,2021-04-29,04:03PM,WRAP Reports First Quarter 2021 Results,0.0,1.0,0.0,0.0
+WRAP,2021-04-28,09:47AM,WRAP Announces Collaboration with Wheaton College on WRAP Reality Training Platform,0.0,1.0,0.0,0.0
+WRAP,2021-04-27,01:04PM,WRAP Releases New Dashcam Footage of Successful BolaWrap® Use in Washington,0.0,0.725,0.275,0.5859
+WRAP,2021-04-23,09:08AM,WRAP Appoints Four New Independent Board Members,0.0,1.0,0.0,0.0
+WRAP,2021-04-22,11:38AM,WRAP Awarded ISO 9001:2015 Certification Marking Compliance with International Quality Standards,0.0,0.787,0.213,0.4019
+WRAP,2021-04-15,10:46AM,WRAP Releases New Bodycam Footage in Maryland of Successful Use of BolaWrap®,0.0,0.743,0.257,0.5859
+WRAP,2021-04-14,09:32AM,"WRAP Sets First Quarter 2021 Conference Webcast for Thursday, April 29 at 4:30 p.m. ET",0.0,1.0,0.0,0.0
+WRAP,2021-04-08,11:37AM,"WRAP Launches Environmental, Social and Governance (ESG) Program",0.0,1.0,0.0,0.0
+WRAP,2021-04-05,08:25AM,WRAP Announces Two New International Orders,0.0,1.0,0.0,0.0
+WRAP,2021-04-01,08:38AM,WRAP Announces Milestone First Subscription Agreement for Virtual Reality Training,0.0,0.738,0.262,0.4939
+WRAP,2021-03-25,08:20AM,WRAP Releases New Bodycam Footage of Successful BolaWrap® Use to Restrain Non-Compliant Subject,0.0,0.759,0.241,0.5859
+WRAP,2021-03-23,08:45AM,WRAP CEO Tom Smith to Present at Virtual Investor Summit Today at 12 pm ET,0.0,1.0,0.0,0.0
+WRAP,2021-03-22,08:33AM,WRAP to Present BolaWrap® and WRAP Reality at the International Law Enforcement Educators and Trainers Association (ILEETA) Conference,0.0,1.0,0.0,0.0
+WRAP,2021-03-15,08:37AM,WRAP to Participate in M Vest LLC and Maxim Group LLC Inaugural Emerging Growth Virtual Conference,0.0,0.843,0.157,0.3818
+FSI,2022-04-21,09:00AM,"FSI Announces First Quarter, 2022 Revenue",0.0,1.0,0.0,0.0
+FSI,2022-04-18,03:26PM,The Funded: A purveyor of plant-based chicken nuggets raised $7 million in a seed round,0.0,1.0,0.0,0.0
+FSI,2022-04-18,06:15AM,Lygos and Flexible Solutions International Announce Definitive Merger Agreement to Form Leading Sustainable Specialty Ingredient Company,0.0,0.657,0.343,0.7003
+FSI,2022-04-18,06:00AM,Lygos and Flexible Solutions International Announce Definitive Merger Agreement to Form Leading Sustainable Specialty Ingredient Company,0.0,0.657,0.343,0.7003
+FSI,2022-03-29,04:30PM,"FSI ANNOUNCES FULL YEAR, 2021 FINANCIAL RESULTS",0.0,1.0,0.0,0.0
+FSI,2022-01-14,09:40AM,Are These Basic Materials Stocks Undervalued Right Now?,0.0,1.0,0.0,0.0
+FSI,2022-01-13,04:30PM,"FSI Announces Top Line Revenue for Fourth Quarter, 2021",0.0,0.816,0.184,0.2023
+FSI,2021-12-29,09:40AM,Are Investors Undervaluing Flexible Solutions International (FSI) Right Now?,0.0,0.66,0.34,0.3818
+FSI,2021-12-21,07:37AM,"Zacks Industry Outlook Highlights: Celanese, Daqo New Energy, AdvanSix and Flexible Solutions International",0.0,0.637,0.363,0.5719
+FSI,2021-12-10,09:40AM,Are Investors Undervaluing Flexible Solutions International (FSI) Right Now?,0.0,0.66,0.34,0.3818
+FSI,2021-12-06,12:45PM,Here is Why Growth Investors Should Buy Flexible Solutions International Inc. (FSI) Now,0.0,0.617,0.383,0.6369
+FSI,2021-11-16,07:39AM,"Flexible Solutions (FSI) Q3 Earnings Meet Estimates, Sales Beat",0.0,0.66,0.34,0.3818
+FSI,2021-11-15,06:35PM,Flexible Solutions International Inc. (FSI) Q3 Earnings Match Estimates,0.0,0.66,0.34,0.3818
+FSI,2021-11-15,04:30PM,"FSI Announces Third Quarter, 2021 Financial Results",0.0,1.0,0.0,0.0
+FSI,2021-11-05,03:00PM,Flexible Solutions International Inc. (FSI) Earnings Expected to Grow: Should You Buy?,0.0,0.735,0.265,0.3818
+FSI,2021-10-14,08:30AM,"FSI Announces Third Quarter, 2021 Revenue",0.0,1.0,0.0,0.0
+FSI,2021-08-17,06:15AM,"Flexible Solutions (FSI) Q2 Earnings Beat Estimates, Revenues Lag",0.2,0.5,0.3,0.0516
+FSI,2021-08-13,08:25PM,Flexible Solutions International Inc. (FSI) Q2 Earnings Top Estimates,0.0,0.526,0.474,0.5267
+FSI,2021-08-13,04:30PM,"FSI Announces Second Quarter, 2021 Financial Results",0.0,1.0,0.0,0.0
+FSI,2021-08-06,03:00PM,Earnings Preview: Flexible Solutions International Inc. (FSI) Q2 Earnings Expected to Decline,0.0,0.735,0.265,0.3818
+FSI,2021-07-20,09:00AM,"FSI Announces Second Quarter, 2021 Revenue",0.0,1.0,0.0,0.0
+FSI,2021-05-18,08:17AM,"Flexible Solutions (FSI) Q1 Earnings Beat, Revenues Down Y/Y",0.0,0.66,0.34,0.3818
+FSI,2021-05-14,05:00PM,"FSI Announces First Quarter, 2021 Financial Results",0.0,1.0,0.0,0.0
+FSI,2021-04-20,04:30PM,"FSI Announces First Quarter, 2021 Revenue",0.0,1.0,0.0,0.0
+FSI,2021-03-31,04:30PM,"FSI Announces Full Year, 2020 Financial Results: Net Profit Up 50%",0.0,0.775,0.225,0.4404
+FSI,2021-03-22,12:30PM,Flexible Solutions International Inc. (FSI) to Report Q4 Results: Wall Street Expects Earnings Growth,0.0,0.64,0.36,0.6369
+FSI,2021-02-28,03:18AM,The Returns At Flexible Solutions International (NYSEMKT:FSI) Provide Us With Signs Of What's To Come,0.0,0.783,0.217,0.3818
+FSI,2021-02-09,09:00AM,FSI Announces Strategic Investment in Lygos Inc.,0.0,1.0,0.0,0.0
+FSI,2021-01-23,03:39AM,Flexible Solutions International Inc.'s (NYSEMKT:FSI) Stock Is Going Strong: Have Financials A Role To Play?,0.0,0.518,0.482,0.8074
+FSI,2021-01-12,04:30PM,"FSI Announces Top Line Revenue for Fourth Quarter, 2020",0.0,0.816,0.184,0.2023
+FSI,2020-12-18,01:39AM,These 4 Measures Indicate That Flexible Solutions International (NYSEMKT:FSI) Is Using Debt Safely,0.145,0.462,0.393,0.5106
+FSI,2020-11-18,12:33AM,Calculating The Fair Value Of Flexible Solutions International Inc. (NYSEMKT:FSI),0.0,0.42,0.58,0.743
+FSI,2020-11-16,08:27AM,"Flexible Solutions (FSI) Q3 Earnings Miss, Revenues In Line",0.143,0.536,0.321,0.25
+FSI,2020-11-13,04:30PM,"FSI Announces Third Quarter, 2020 Financial Results",0.0,1.0,0.0,0.0
+FSI,2020-11-09,07:51AM,Check These 6 Top-Rated Stocks With Solid Net Profit Margins,0.0,0.609,0.391,0.5423
+FSI,2020-10-22,09:42AM,Should You Investigate Flexible Solutions International Inc. (NYSEMKT:FSI) At US$2.73?,0.0,0.69,0.31,0.3818
+FSI,2020-10-22,08:50AM,"Zacks.com featured highlights include: SYNNEX, Herc Holdings, Flexible Solutions International, Deckers Outdoor Corp and L.B. Foster",0.0,0.795,0.205,0.3818
+FSI,2020-10-21,09:44AM,"The Zacks Analyst Blog Highlights: Ampco-Pittsburgh, Koppers Holdings, Flexible Solutions International, Fidelity National Financial and Meridian Corp",0.0,0.806,0.194,0.3818
+FSI,2020-10-21,08:47AM,6 Top-Ranked Stocks With Stellar Net Profit Margins,0.0,0.674,0.326,0.4404
+FSI,2020-10-20,07:33AM,Value to Outperform Growth Post Election: 5 Stocks to Buy Now,0.0,0.615,0.385,0.6124
+FSI,2020-10-15,04:30PM,"FSI Announces Top Line Revenue for Third Quarter, 2020",0.0,0.816,0.184,0.2023
+FSI,2020-10-06,07:21AM,5 Chemical Growth Stocks to Enrich Your Portfolio in Q4,0.0,0.755,0.245,0.3818
+FSI,2020-10-01,11:50AM,3 Stocks With Low Price-Sales Ratios,0.344,0.656,0.0,-0.2732
+FSI,2020-09-22,09:23AM,Our Take On Flexible Solutions International's (NYSEMKT:FSI) CEO Salary,0.0,0.66,0.34,0.3818
+FSI,2020-08-23,09:01AM,It's A Story Of Risk Vs Reward With Flexible Solutions International Inc. (NYSEMKT:FSI),0.121,0.46,0.42,0.6369
+FSI,2020-08-17,08:18AM,Flexible Solutions (FSI) Q2 Earnings and Sales Top Estimates,0.0,0.526,0.474,0.5267
+FSI,2020-08-14,05:00PM,"FSI Announces Second Quarter, 2020 Financial Results",0.0,1.0,0.0,0.0
+FSI,2020-08-13,11:16AM,A Preview Of Flexible Solutions's Earnings,0.0,0.678,0.322,0.2263
+FSI,2020-07-21,02:08PM,Returns On Capital At Flexible Solutions International (NYSEMKT:FSI) Paint An Interesting Picture,0.0,0.588,0.412,0.6486
+FSI,2020-07-16,09:00AM,"FSI Announces Top Line Revenue for Second Quarter, 2020",0.0,0.816,0.184,0.2023
+FSI,2020-06-29,01:19PM,Penny Stocks to Watch for July 2020,0.0,1.0,0.0,0.0
+FSI,2020-05-28,02:47PM,Calculating The Intrinsic Value Of Flexible Solutions International Inc. (NYSEMKT:FSI),0.0,0.538,0.462,0.6124
+FSI,2020-05-19,06:56AM,"Flexible Solutions (FSI) Q1 Earnings Top, Revenues Down Y/Y",0.0,0.526,0.474,0.5267
+FSI,2020-05-14,04:30PM,"FSI Announces First Quarter, 2020 Financial Results",0.0,1.0,0.0,0.0
+FSI,2020-05-06,07:27AM,What Is Flexible Solutions International's (NYSEMKT:FSI) P/E Ratio After Its Share Price Rocketed?,0.0,0.633,0.367,0.5859
+FSI,2020-04-24,04:30PM,"FSI Announces First Quarter, 2020 Revenue",0.0,1.0,0.0,0.0
+FSI,2020-03-30,04:30PM,"FSI Announces Full Year, 2019 Financial Results",0.0,1.0,0.0,0.0
+FSI,2020-03-19,04:30PM,FSI Announces the Company Has Decided to Suspend the Dividend Until Further Notice,0.161,0.839,0.0,-0.3182
+FSI,2020-03-19,06:58AM,What Is Flexible Solutions International's (NYSEMKT:FSI) P/E Ratio After Its Share Price Tanked?,0.0,0.633,0.367,0.5859
+FSI,2020-03-04,08:42AM,Is Flexible Solutions International Inc.'s (NYSEMKT:FSI) 7.9% ROE Worse Than Average?,0.211,0.544,0.245,-0.128
+FSI,2020-02-03,09:08AM,Should You Care About Flexible Solutions International Inc.s (NYSEMKT:FSI) Investment Potential?,0.0,0.541,0.459,0.7003
+FSI,2020-01-30,04:30PM,"FSI Announces Fourth Quarter, 2019 Revenue",0.0,1.0,0.0,0.0
+FSI,2020-01-02,08:09AM,Announcing: Flexible Solutions International (NYSEMKT:FSI) Stock Increased An Energizing 127% In The Last Five Years,0.0,0.558,0.442,0.7717
+FSI,2019-12-05,02:36PM,Edited Transcript of FSI earnings conference call or presentation 15-Nov-19 4:00pm GMT,0.0,1.0,0.0,0.0
+FSI,2019-12-03,11:39AM,Interested In Flexible Solutions International Inc. (NYSEMKT:FSI)? Here's How It Performed Recently,0.0,0.588,0.412,0.6486
+FSI,2019-11-19,10:03AM,Flexible Solutions (FSI) Q3 Earnings & Sales Lag Estimates,0.218,0.455,0.327,0.0516
+FSI,2019-11-14,04:30PM,"FSI Announces Third Quarter, 2019 Financial Results",0.0,1.0,0.0,0.0
+FSI,2019-11-07,07:02AM,Does It Make Sense To Buy Flexible Solutions International Inc. (NYSEMKT:FSI) For Its Yield?,0.0,0.769,0.231,0.3818
+FSI,2019-10-21,09:00AM,"FSI Announces Third Quarter, 2019 Revenue",0.0,1.0,0.0,0.0
+FSI,2019-10-15,07:16AM,What Did Flexible Solutions International Inc.'s (NYSEMKT:FSI) CEO Take Home Last Year?,0.0,0.735,0.265,0.3818
+FSI,2019-09-24,07:01AM,Should You Be Tempted To Sell Flexible Solutions International Inc. (NYSEMKT:FSI) Because Of Its P/E Ratio?,0.0,0.795,0.205,0.3818
+FSI,2019-09-19,04:30PM,FSI Confirms Annual Dividend and Payment Date,0.0,1.0,0.0,0.0
+FSI,2019-09-09,11:01AM,New Strong Sell Stocks for September 9th,0.0,0.645,0.355,0.5106
+FSI,2019-09-04,06:21AM,Is Flexible Solutions International (NYSEMKT:FSI) A Risky Investment?,0.191,0.426,0.383,0.2023
+FSI,2019-08-19,07:44AM,Flexible Solutions (FSI) Q2 Earnings &amp; Revenues Lag Estimates,0.2,0.5,0.3,0.0516
+FSI,2019-08-15,07:06AM,Did Flexible Solutions International Inc. (NYSEMKT:FSI) Use Debt To Deliver Its ROE Of 14%?,0.146,0.643,0.211,0.0258
+FSI,2019-08-14,04:30PM,"FSI Announces Second Quarter, 2019 Financial Results",0.0,1.0,0.0,0.0
+FSI,2019-08-09,05:50PM,Flexible Solutions International (FSI) Dips More Than Broader Markets: What You Should Know,0.0,0.753,0.247,0.3818
+FSI,2019-08-09,07:36AM,What's in Store for Flexible Solutions (FSI) in Q2 Earnings?,0.0,0.69,0.31,0.3818
+FSI,2019-08-08,06:51AM,"Albemarle (ALB) Tops Q2 Earnings Estimates, Ups FY19 EPS View",0.0,0.732,0.268,0.5106
+FSI,2019-08-07,06:42AM,"Westlake Chemical (WLK) Q2 Earnings, Sales Trounce Estimates",0.0,1.0,0.0,0.0
+FSI,2019-08-06,10:30AM,Flexible Solutions International (FSI) to Report Q2 Results: Wall Street Expects Earnings Growth,0.0,0.617,0.383,0.6369
+FSI,2019-08-06,09:32AM,"Cabot's (CBT) Q3 Earnings In Line, Revenues Miss Estimates",0.167,0.833,0.0,-0.1531
+FSI,2019-08-06,08:19AM,Univar's (UNVR) Earnings &amp; Revenues Lag Estimates in Q2,0.231,0.769,0.0,-0.34
+FSI,2019-08-05,08:10AM,"Century Aluminum (CENX) Earnings, Sales Beat Estimates in Q2",0.0,1.0,0.0,0.0
+FSI,2019-08-02,10:15AM,Arconic's (ARNC) Earnings &amp; Revenues Top Estimates in Q2,0.0,0.816,0.184,0.2023
+FSI,2019-08-02,07:21AM,Chemours' (CC) Earnings and Revenues Miss Estimates in Q2,0.167,0.833,0.0,-0.1531
+FSI,2019-08-02,06:28AM,U.S. Steel (X) Tops Earnings and Revenue Estimates in Q2,0.0,0.732,0.268,0.5106
+FSI,2019-08-01,09:14AM,"DuPont's (DD) Earnings Top, Sales Trail Estimates in Q2",0.0,0.816,0.184,0.2023
+FSI,2019-08-01,06:36AM,"Olin's (OLN) Q2 Earnings In Line, Revenues Beat Estimates",0.0,1.0,0.0,0.0
+FSI,2019-07-31,05:50PM,Flexible Solutions International (FSI) Stock Moves -0.93%: What You Should Know,0.0,0.714,0.286,0.3818
+FSI,2019-07-31,07:41AM,FMC Corp (FMC) Tops Earnings and Revenue Estimates in Q2,0.0,0.732,0.268,0.5106
+FSI,2019-07-31,06:59AM,"Huntsman (HUN) Misses Earnings, Revenue Estimates in Q2",0.213,0.787,0.0,-0.2263
+FSI,2019-07-26,07:28AM,"Reliance Steel (RS) Earnings Top, Sales Lag Estimates in Q2",0.197,0.656,0.148,-0.1531
+FSI,2019-07-26,07:25AM,"Eastman Chemical (EMN) Misses Q2 Earnings, Revenue Estimates",0.213,0.787,0.0,-0.2263
+FSI,2019-07-25,09:25AM,"Dow's (DOW) Q2 Earnings Surpass Estimates, Revenues Trail",0.0,1.0,0.0,0.0
+FSI,2019-07-25,08:25AM,"Ingevity's (NGVT) Earnings Beat Estimates in Q2, Sales Lag",0.231,0.769,0.0,-0.34
+FSI,2019-07-25,06:45AM,"Valmont (VMI) Misses on Q2 Earnings &amp; Sales, Lowers FY19 View",0.274,0.726,0.0,-0.34
+FSI,2019-07-24,05:50PM,Flexible Solutions International (FSI) Stock Sinks As Market Gains: What You Should Know,0.0,0.625,0.375,0.6124
+FSI,2019-07-24,05:00PM,"FSI Announces 63% Revenue Increase for Second Quarter, 2019",0.0,0.777,0.223,0.3182
+GEVO,2022-04-21,04:01PM,"Gevo to Report First Quarter 2022 Financial Results on May 09, 2022",0.0,1.0,0.0,0.0
+GEVO,2022-04-13,02:50PM,Is Gevo Stock a Buy After Farmers Edge Partnership?,0.0,1.0,0.0,0.0
+GEVO,2022-04-13,09:00AM,Gevo Applauds President Bidens Executive Actions Supporting Sustainable Aviation Fuel,0.0,0.602,0.398,0.6486
+GEVO,2022-04-11,09:53AM,Gevo Could Get a Boost as the Company Starts Revenue Operations Soon,0.0,0.787,0.213,0.4019
+GEVO,2022-04-05,08:00AM,Gevo and Farmers Edge Partner to Verify Sustainable Fuels from Low-Carbon Grain through Verity Tracking,0.0,1.0,0.0,0.0
+GEVO,2022-03-30,06:30AM,$18 Is the Next Target for Gevo Stock as Big Purchase Orders Come In,0.0,1.0,0.0,0.0
+GEVO,2022-03-25,06:16PM,"Gevo Is a Fascinating Company, But Not a Buy",0.0,0.727,0.273,0.3071
+GEVO,2022-03-23,08:41AM,Delta (DAL) Inks Deal With Gevo for 75M Gallons of SAF Per Year,0.0,1.0,0.0,0.0
+GEVO,2022-03-22,02:03PM,Delta Inks New Sustainable Aviation Fuel Agreement With Gevo,0.0,0.714,0.286,0.4939
+GEVO,2022-03-22,11:24AM,Delta Air Lines Signs Sustainable Fuel Agreement With Gevo,0.0,0.714,0.286,0.4939
+GEVO,2022-03-22,09:00AM,Delta Air Lines Signs 75 Million Gallon Per Year Agreement with Gevo,0.0,0.775,0.225,0.4939
+GEVO,2022-03-21,09:00AM,oneworld® Alliance Members Plan to Purchase Up To 200 Million Gallons of Sustainable Aviation Fuel Per Year From Gevo,0.0,1.0,0.0,0.0
+GEVO,2022-02-28,06:47PM,"Gevo: Ethanol to SAF Shift Should Reduce Execution Risk, Says Top Analyst",0.151,0.719,0.129,-0.0772
+GEVO,2022-02-24,04:01PM,Gevo Reports Fourth Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+GEVO,2022-02-17,03:02PM,"Will Gevo, Inc. (GEVO) Report Negative Earnings Next Week? What You Should Know",0.236,0.764,0.0,-0.5719
+GEVO,2022-02-09,05:43AM,"Could The Gevo, Inc. (NASDAQ:GEVO) Ownership Structure Tell Us Something Useful?",0.0,0.775,0.225,0.4404
+GEVO,2022-01-31,04:38PM,Colorado company readies to start turning Iowa cow manure into fuel,0.0,1.0,0.0,0.0
+GEVO,2022-01-31,09:00AM,Gevo Begins Startup of Its Renewable Natural Gas Project in Northwest Iowa on Schedule,0.0,0.839,0.161,0.3612
+GEVO,2022-01-28,04:01PM,GEVO Stock is a Risk-On Asset in a Risk-Off Market,0.0,0.737,0.263,0.3612
+GEVO,2022-01-19,09:00AM,"Gevo to Report Fourth Quarter 2021 Financial Results on February 24, 2022",0.0,1.0,0.0,0.0
+GEVO,2022-01-04,09:00AM,"David George Joins Gevo as Senior Vice President, Verity Tracking",0.0,1.0,0.0,0.0
+GEVO,2021-12-27,06:00AM,Gevo Stock Enters 2022 With Much to Prove,0.0,1.0,0.0,0.0
+GEVO,2021-12-22,09:00AM,Staci Bogue-Buchholz Joins Gevo as Site and Process Optimization Leader,0.0,0.776,0.224,0.3818
+GEVO,2021-12-21,09:00AM,Lisa Walker Joins Gevo as Assistant General Counsel,0.0,1.0,0.0,0.0
+GEVO,2021-12-09,03:06PM,Opal Fuels Co-CEO explains why the energy firm is converting methane emissions into natural gas,0.0,0.739,0.261,0.5574
+GEVO,2021-12-09,09:00AM,"Dr. Patrick Gruber to Participate in a Water Tower Research Fireside Chat on Thursday, December 16th at 4:00 pm EST",0.0,1.0,0.0,0.0
+GEVO,2021-12-08,02:36PM,"Gevo Stock Could Hit $16, Says Analyst",0.0,1.0,0.0,0.0
+GEVO,2021-12-07,05:02PM,Colorado's Gevo strikes $2.8B biofuel agreement and plans second net-zero fuel plant,0.159,0.637,0.204,0.1779
+GEVO,2021-12-07,12:40PM,GEVO Stock Alert: The Renewable Fuel Deal Giving Gevo Investors a Gift Today,0.0,0.545,0.455,0.7579
+GEVO,2021-12-07,11:16AM,Why Renewable Energy Stock Gevo Is on Fire Today,0.209,0.609,0.183,-0.0772
+GEVO,2021-12-07,11:06AM,Dont Buy Gevo Stock,0.0,1.0,0.0,0.0
+GEVO,2021-12-07,09:00AM,Gevo Inks Largest Supply Agreement To-Date for Renewable Fuels,0.0,0.714,0.286,0.4939
+GEVO,2021-12-07,05:04AM,Gevo Stock Jumps On Largest Supply Agreement To Date,0.0,0.714,0.286,0.4939
+GEVO,2021-12-01,02:48PM,Gevo Has Made Lots of Deals and No Money So Far,0.18,0.82,0.0,-0.296
+GEVO,2021-11-24,12:26PM,The Ingredients Are in Place for Gevo Stock to Ultimately Lift Off,0.0,1.0,0.0,0.0
+GEVO,2021-11-23,11:06AM,Stay on the Sidelines With Gevo Stock,0.0,1.0,0.0,0.0
+GEVO,2021-11-23,10:41AM,3 Strong Buy Stocks Under $10 That Are Poised for a Breakout Year,0.0,0.629,0.371,0.6486
+GEVO,2021-11-22,05:01PM,Sustainable Jet Fuel Is a Key Part of Gevo Incs Growth Equation,0.0,0.794,0.206,0.3818
+GEVO,2021-11-22,04:01PM,Alisher Nurmat Joins Gevo as VP/Controller,0.0,1.0,0.0,0.0
+GEVO,2021-11-18,06:00AM,Recent Developments Point to a Tremendous Upside For Gevo,0.0,1.0,0.0,0.0
+GEVO,2021-11-16,09:00AM,Gevo and Sweetwater Energy Sign MoU to Supply Lignocellulosic Feedstocks to Produce Cellulosic Alcohols and Sustainable Aviation Fuel,0.0,0.89,0.11,0.2732
+GEVO,2021-11-11,04:56PM,Colorado biofuel company gets into ethanol-based jet fuel with ADM,0.0,1.0,0.0,0.0
+GEVO,2021-11-11,10:00AM,"Gevo, Inc. (GEVO) Q3 2021 Earnings Call Transcript",0.0,1.0,0.0,0.0
+GEVO,2021-11-10,05:25PM,"Gevo, Inc. (GEVO) Reports Q3 Loss, Lags Revenue Estimates",0.407,0.593,0.0,-0.5859
+GEVO,2021-11-10,04:01PM,Gevo Reports Third Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+GEVO,2021-11-09,09:00AM,Gevo to Present on Fuel Decarbonization at the AFCC Biobased Economy Conference,0.0,1.0,0.0,0.0
+GEVO,2021-11-05,09:21AM,The 8.6% return this week takes Gevo's (NASDAQ:GEVO) shareholders one-year gains to 593%,0.0,0.833,0.167,0.34
+GEVO,2021-11-03,03:01PM,"Will Gevo, Inc. (GEVO) Report Negative Earnings Next Week? What You Should Know",0.236,0.764,0.0,-0.5719
+GEVO,2021-11-01,02:45PM,Super-Sized Agreement Could Fuel Future Growth for Gevo,0.0,0.508,0.492,0.7003
+GEVO,2021-10-26,01:38PM,"Gevo: Time to Load up on This High Risk/High Reward Stock, Says Top Analyst",0.0,0.686,0.314,0.6705
+GEVO,2021-10-25,01:31PM,Gevo Stock Looks Like It's Ready To Break Out Of A Pennant Pattern,0.0,0.667,0.333,0.6124
+GEVO,2021-10-25,12:20PM,Why Renewable Energy Stock Gevo Surged Monday Morning,0.0,0.769,0.231,0.2732
+GEVO,2021-10-25,09:00AM,"ADM, Gevo Sign MoU to Produce up to 500M Gallons of Sustainable Aviation Fuel",0.0,1.0,0.0,0.0
+GEVO,2021-10-18,09:00AM,"Dr. Patrick Gruber to Participate in a Water Tower Research Fireside Chat on Thursday, October 21, 2021 at 4:30 pm EDT",0.0,1.0,0.0,0.0
+GEVO,2021-10-14,09:00AM,"Gevo to Report Third Quarter 2021 Financial Results on November 10, 2021",0.0,1.0,0.0,0.0
+GEVO,2021-10-12,09:00AM,Gevo and Axens Ink Alliance for Ethanol-to-Jet Technology and Sustainable Aviation Fuel Commercial Project Development,0.0,1.0,0.0,0.0
+GEVO,2021-10-07,09:00AM,"Gevo Partners with Engineering, Procurement, and Construction (EPC) Giant, Kiewit, on its Net-Zero 1 Project",0.0,1.0,0.0,0.0
+GEVO,2021-09-27,01:02PM,Why Gevo Shares Are Trading Higher Today,0.0,0.732,0.268,0.296
+GEVO,2021-09-27,09:00AM,Gevo Awarded Patent for Process to Upgrade or Convert Ethanol and Bio-based Alcohols to Drop-In Hydrocarbon Fuels,0.0,0.856,0.144,0.4019
+GEVO,2021-09-23,09:00AM,Gevo Acquires Butamax Patent Estate,0.0,1.0,0.0,0.0
+GEVO,2021-09-20,09:00AM,The U.S. Department of Energys (DOE) Argonne National Laboratory Team Up with Gevo to Apply Argonnes GREET Model to its Net-Zero Project,0.0,0.874,0.126,0.4648
+GEVO,2021-09-13,11:49AM,Notable Gevo Insider Makes $411.34 Thousand Sale,0.0,1.0,0.0,0.0
+GEVO,2021-09-13,09:00AM,"White House Coordinates Efforts of Departments of Energy, Transportation, and Agriculture to Meet the Grand Challenge: Reduce Aviation Carbon Footprint by 50 Percent by 2050",0.0,0.775,0.225,0.6597
+GEVO,2021-09-10,08:38AM,Is the Options Market Predicting a Spike in Gevo (GEVO) Stock?,0.0,1.0,0.0,0.0
+GEVO,2021-09-09,05:42PM,Investors Should Look at These 2 Big Thursday Winners,0.0,0.693,0.307,0.4767
+GEVO,2021-09-09,01:08PM,Why Gevo Stock Is Taking Off Today,0.0,1.0,0.0,0.0
+GEVO,2021-09-09,12:12PM,Why Gevo Shares Are Surging Higher Today,0.0,0.732,0.268,0.296
+GEVO,2021-09-09,09:41AM,"Chevron, Gevo join hands to invest in sustainable aviation fuel",0.0,0.804,0.196,0.296
+GEVO,2021-09-09,09:00AM,"Chevron, Gevo Announce Intent to Pursue Sustainable Aviation Fuel Investment",0.0,1.0,0.0,0.0
+GEVO,2021-09-07,09:00AM,Gevo Announces Plans for Hydrocarbon-Process Pilot Unit at Luverne Facility,0.0,1.0,0.0,0.0
+GEVO,2021-08-27,03:00PM,Why Bulls in Gevo Stock Got a Big Kick Today,0.0,1.0,0.0,0.0
+GEVO,2021-08-26,09:00AM,Gevo Files for Environmental Permits in South Dakota for the Net-Zero 1 Project,0.0,1.0,0.0,0.0
+GEVO,2021-08-24,11:59AM,Why Gevo Stock Is Jumping Today,0.0,1.0,0.0,0.0
+GEVO,2021-08-16,09:00AM,"Gevo Releases IMPACT, an Environmental, Social, and Corporate Governance (ESG) Report; Strengthening its Commitment to Transparency and Accountability",0.0,0.734,0.266,0.7003
+GEVO,2021-08-13,12:00AM,"Gevo, Inc. (GEVO) Q2 2021 Earnings Call Transcript",0.0,1.0,0.0,0.0
+GEVO,2021-08-12,08:05PM,"Gevo, Inc. (GEVO) Reports Q2 Loss, Misses Revenue Estimates",0.375,0.625,0.0,-0.4939
+GEVO,2021-08-12,04:28PM,Gevo Reports Second Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+GEVO,2021-08-11,09:00AM,"Dr. Chris Ryan and Lynn Smull to Participate in a Water Tower Research Fireside Chat on Wednesday, August 18, 2021 at 4:00 pm EDT",0.0,1.0,0.0,0.0
+GEVO,2021-08-09,09:00AM,Gevo to Sell Renewable Natural Gas to bp,0.0,0.737,0.263,0.3612
+GEVO,2021-08-05,03:01PM,"Will Gevo, Inc. (GEVO) Report Negative Earnings Next Week? What You Should Know",0.236,0.764,0.0,-0.5719
+GEVO,2021-08-04,09:00AM,Gevos Luverne Facility Re-Starts Production Operations,0.0,1.0,0.0,0.0
+GEVO,2021-08-02,09:00AM,Gevo Adds Jaime Guillen to Board of Directors,0.0,1.0,0.0,0.0
+GEVO,2021-07-14,09:00AM,"Gevo to Report Second Quarter 2021 Financial Results on August 12, 2021",0.0,1.0,0.0,0.0
+GEVO,2021-06-30,04:01PM,"Dr. Patrick Gruber to Participate in a Water Tower Research Fireside Chat on Thursday, July 01, 2021 at 4:00 pm EDT",0.0,1.0,0.0,0.0
+GEVO,2021-06-28,01:05PM,"Hedge Funds Are Selling Gevo, Inc. (GEVO)",0.0,1.0,0.0,0.0
+GEVO,2021-06-24,09:00AM,Tony Wells Joins Gevo as General Manager for Net-Zero 1,0.0,0.8,0.2,0.25
+GEVO,2021-06-22,06:16AM,Gevo Could Be Purchased After Its Successful Test of the Long-Term Average,0.0,0.743,0.257,0.5859
+GEVO,2021-06-17,09:00AM,Gevo hires Kimberly Bowron as Chief Human Resources Officer,0.0,1.0,0.0,0.0
+GEVO,2021-06-08,04:01PM,Gevo Set to Join Russell 3000® Index,0.0,0.732,0.268,0.296
+GEVO,2021-06-04,10:15PM,Why Gevo Stock Gained 12% in May,0.0,0.698,0.302,0.3818
+GEVO,2021-05-27,06:52AM,"Why Amyris, Gevo, and Aemetis Stocks Popped Wednesday",0.0,1.0,0.0,0.0
+GEVO,2021-05-20,08:50AM,Do Options Traders Know Something About Gevo (GEVO) Stock We Don't?,0.0,1.0,0.0,0.0
+GEVO,2021-05-14,05:48PM,Why Gevo Stock Jumped Today,0.0,1.0,0.0,0.0
+GEVO,2021-05-14,03:30AM,"Gevo, Inc. (GEVO) Q1 2021 Earnings Call Transcript",0.0,1.0,0.0,0.0
+GEVO,2021-05-14,03:20AM,"Introducing Gevo (NASDAQ:GEVO), The Stock That Soared 391% In The Last Year",0.0,1.0,0.0,0.0
+GEVO,2021-05-13,05:45PM,"Gevo, Inc. (GEVO) Reports Q1 Loss, Misses Revenue Estimates",0.375,0.625,0.0,-0.4939
+GEVO,2021-05-13,04:01PM,Gevo Reports First Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+GEVO,2021-05-13,02:30PM,"Gevo, Inc. to Host Earnings Call",0.0,1.0,0.0,0.0
+GEVO,2021-05-11,11:06AM,GEVO Gears Up to Release Q1 Earnings: What's in the Cards?,0.0,1.0,0.0,0.0
+GEVO,2021-05-06,03:00PM,"Gevo, Inc. (GEVO) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",0.209,0.791,0.0,-0.5719
+LIQT,2022-04-04,09:55AM,Penny Stocks to Watch in April 2022,0.0,1.0,0.0,0.0
+LIQT,2022-03-29,07:58PM,"Are Investors Undervaluing LiqTech International, Inc. (NASDAQ:LIQT) By 33%?",0.0,1.0,0.0,0.0
+LIQT,2022-03-24,11:11AM,Why Are LiqTech Shares Trading Lower Today,0.234,0.532,0.234,0.0
+LIQT,2022-03-24,08:00AM,LiqTech International Announces Financial Results for the Fourth Quarter and Full Year of 2021,0.0,1.0,0.0,0.0
+LIQT,2022-03-21,09:00AM,"LiqTech International to Discuss Fourth Quarter and Fiscal Year 2021 Results on Thursday, March 24, 2022",0.0,1.0,0.0,0.0
+LIQT,2022-03-18,08:00AM,LiqTech CEO Takes Medical Leave of Absence,0.167,0.833,0.0,-0.0516
+LIQT,2022-02-07,08:16AM,Is LiqTech International (NASDAQ:LIQT) Using Too Much Debt?,0.263,0.737,0.0,-0.3612
+LIQT,2022-01-26,08:00AM,LiqTech Signs OEM Membrane Sales Supply Agreement,0.0,0.652,0.348,0.4939
+LIQT,2021-12-23,04:49AM,"Insider Buying: Laurence Lytton Just Spent US$407k On LiqTech International, Inc. (NASDAQ:LIQT) Shares",0.0,0.845,0.155,0.296
+LIQT,2021-12-20,06:17AM,LiqTech International's (NASDAQ:LIQT) investors will be pleased with their splendid 104% return over the last five years,0.0,0.691,0.309,0.7717
+LIQT,2021-12-16,06:38PM,"AWM Investment Company, Inc. Buys Destination XL Group Inc, LiqTech International Inc, Gambling. ...",0.0,1.0,0.0,0.0
+LIQT,2021-12-14,12:38AM,"AWM Investment Company, Inc. Buys Destination XL Group Inc, LiqTech International Inc, Gambling. ...",0.0,1.0,0.0,0.0
+LIQT,2021-12-09,04:15PM,LiqTech International to Participate in the Lytham Partners Winter 2021 Investor Conference,0.0,1.0,0.0,0.0
+LIQT,2021-11-23,04:15PM,LiqTech International Appoints Simon Stadil as Chief Financial Officer,0.0,1.0,0.0,0.0
+LIQT,2021-11-11,08:00AM,LiqTech International Announces Third Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+LIQT,2021-11-02,04:15PM,"LiqTech International to Discuss Third Quarter 2021 Results on Thursday, November 11, 2021",0.0,1.0,0.0,0.0
+LIQT,2021-10-20,08:12AM,"Here's What LiqTech International, Inc.'s (NASDAQ:LIQT) Shareholder Ownership Structure Looks Like",0.0,0.8,0.2,0.3612
+LIQT,2021-10-06,04:15PM,LiqTech Receives First Middle East Oil and Gas Order and Schedules Business Update Conference Call,0.0,1.0,0.0,0.0
+LIQT,2021-08-21,08:51AM,"LiqTech International, Inc. (NASDAQ:LIQT) Analysts Just Cut Their EPS Forecasts Substantially",0.174,0.826,0.0,-0.2732
+LIQT,2021-08-19,06:48AM,"LiqTech International, Inc. (NASDAQ:LIQT) Analysts Are Cutting Their Estimates: Here's What You Need To Know",0.097,0.903,0.0,-0.128
+LIQT,2021-08-16,03:19PM,LiqTech International Stock Slips Despite Expecting Double Revenue in 2H,0.0,1.0,0.0,0.0
+LIQT,2021-08-16,09:15AM,"LiqTech International, Inc. (LIQT) Reports Q2 Loss, Lags Revenue Estimates",0.375,0.625,0.0,-0.5859
+LIQT,2021-08-16,08:00AM,LiqTech International Announces Second Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+LIQT,2021-08-02,04:15PM,"LiqTech International to Discuss Second Quarter 2021 Results on Monday, August 16, 2021",0.0,1.0,0.0,0.0
+LIQT,2021-08-02,03:01PM,"LiqTech International, Inc. (LIQT) May Report Negative Earnings: Know the Trend Ahead of Q2 Release",0.209,0.791,0.0,-0.5719
+LIQT,2021-06-26,05:39AM,Can You Imagine How Jubilant LiqTech International's (NASDAQ:LIQT) Shareholders Feel About Its 188% Share Price Gain?,0.0,0.575,0.425,0.8625
+LIQT,2021-06-13,11:21PM,Is LiqTech International Inc (LIQT) Going to Burn These Hedge Funds?,0.0,1.0,0.0,0.0
+LIQT,2021-05-12,10:31AM,"LiqTech International, Inc. (LIQT) Reports Q1 Loss, Tops Revenue Estimates",0.169,0.588,0.243,0.25
+LIQT,2021-05-12,08:00AM,LiqTech International Announces First Quarter 2021 Financial Results,0.0,1.0,0.0,0.0
+LIQT,2021-05-12,07:15AM,"LiqTech International, Inc. to Host Earnings Call",0.0,1.0,0.0,0.0
+LIQT,2021-05-03,04:15PM,"LiqTech International to Discuss First Quarter 2021 Results on Wednesday, May 12, 2021",0.0,1.0,0.0,0.0
+LIQT,2021-04-26,09:55AM,New Strong Sell Stocks for April 26th,0.0,0.645,0.355,0.5106
+LIQT,2021-03-30,11:10AM,New Strong Sell Stocks for March 30th,0.0,0.645,0.355,0.5106
+LIQT,2021-03-29,09:00AM,LiqTech International to Present at the Lytham Partners Spring 2021 Investor Conference,0.0,1.0,0.0,0.0
+LIQT,2021-03-28,03:14AM,"LiqTech International, Inc. (NASDAQ:LIQT) Analysts Just Slashed This Year's Estimates",0.174,0.826,0.0,-0.2263
+LIQT,2021-03-25,08:50AM,Recap: LiqTech International Q4 Earnings,0.0,1.0,0.0,0.0
+LIQT,2021-03-25,08:00AM,LiqTech International Announces 2020 Financial Results,0.0,1.0,0.0,0.0
+LIQT,2021-03-25,07:15AM,"LiqTech International, Inc. to Host Earnings Call",0.0,1.0,0.0,0.0
+LIQT,2021-03-24,10:05AM,Preview: LiqTech International's Earnings,0.0,1.0,0.0,0.0
+LIQT,2021-03-15,04:15PM,"LiqTech International, Inc. to Discuss Fourth Quarter and Fiscal Year 2020 Results on Thursday, March 25, 2021",0.0,1.0,0.0,0.0
+LIQT,2021-02-10,06:17AM,LiqTech (LIQT) is Overbought: Is A Drop Coming?,0.259,0.741,0.0,-0.2732
+LIQT,2021-01-26,07:00AM,LiqTech International Announces Preliminary Fourth Quarter 2020 Financial Results and Provides Operational Update,0.0,1.0,0.0,0.0
+LIQT,2021-01-25,10:20AM,Earnings Outlook for LiqTech International,0.0,1.0,0.0,0.0
+LIQT,2020-12-16,09:00AM,"LiqTech International to Host Analyst and Investor Meeting on Tuesday, January 26, 2021",0.0,1.0,0.0,0.0
+LIQT,2020-11-09,08:00AM,LiqTech International Inc. Announces Third Quarter 2020 Financial Results,0.0,1.0,0.0,0.0
+LIQT,2020-11-09,07:15AM,"LiqTech International, Inc. to Host Earnings Call",0.0,1.0,0.0,0.0
+LIQT,2020-11-04,05:31PM,"SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of an Investigation Concerning Possible Breaches of Fiduciary Duty by Certain Officers and Directors of LiqTech International, Inc. - LIQT",0.0,0.827,0.173,0.6166
+LIQT,2020-11-04,08:00AM,"SHAREHOLDER ALERT: Purcell Julie & Lefkowitz LLP Is Investigating LiqTech International, Inc. for Potential Breaches of Fiduciary Duty By Its Board of Directors",0.0,0.877,0.123,0.4466
+LIQT,2020-11-03,09:00PM,"INVESTIGATION ALERT: Fields Kupka & Shukurov LLP Is Investigating LiqTech International, Inc. for Potential Breach of Fiduciary Duty Claims",0.0,0.853,0.147,0.4466
+LIQT,2020-10-27,09:00AM,"LiqTech International, Inc. to Discuss Third Quarter 2020 Results on Monday, November 9, 2020",0.0,1.0,0.0,0.0
+LIQT,2020-09-24,04:15PM,LiqTech International to Participate in the October 2020 Lytham Partners Virtual Investor Conference,0.0,1.0,0.0,0.0
+LIQT,2020-08-26,04:30PM,LiqTech International Announces the Appointment of Richard Meeusen to its Board of Directors,0.0,1.0,0.0,0.0
+LIQT,2020-08-10,08:20AM,LiqTech International: Q2 Earnings Insights,0.0,1.0,0.0,0.0
+LIQT,2020-08-10,08:00AM,"LiqTech International, Inc. Announces Second Quarter 2020 Financial Results",0.0,1.0,0.0,0.0
+LIQT,2020-08-04,04:30PM,"LiqTech International, Inc. to Discuss Second Quarter 2020 Results on Monday, August 10, 2020",0.0,1.0,0.0,0.0
+LIQT,2020-06-26,05:01PM,Edited Transcript of LIQT earnings conference call or presentation 11-May-20 1:00pm GMT,0.0,1.0,0.0,0.0
+LIQT,2020-06-02,05:03AM,Edited Transcript of LIQT earnings conference call or presentation 26-Mar-20 1:00pm GMT,0.0,1.0,0.0,0.0
+LIQT,2020-05-27,12:49PM,Hedge Funds Cashed Out Of LiqTech International Inc (LIQT) During The Crash,0.197,0.803,0.0,-0.4019
+LIQT,2020-05-21,09:00AM,"LiqTech International, Inc. Announces $8 Million Private Placement",0.0,1.0,0.0,0.0
+LIQT,2020-05-13,09:00AM,LiqTech International to Present at Lytham Partners Virtual Investor Conference,0.0,1.0,0.0,0.0
+LIQT,2020-05-11,10:01AM,LiqTech International: Q1 Earnings Insights,0.0,1.0,0.0,0.0
+LIQT,2020-05-11,08:00AM,LiqTech International Inc. Announces First Quarter 2020 Financial Results,0.0,1.0,0.0,0.0
+LIQT,2020-03-28,12:11AM,Edited Transcript of LIQT earnings conference call or presentation 14-Aug-19 1:00pm GMT,0.0,1.0,0.0,0.0
+LIQT,2020-03-26,08:49AM,Recap: LiqTech International Q4 Earnings,0.0,1.0,0.0,0.0
+LIQT,2020-03-26,08:00AM,"LiqTech International, Inc. Announces Fourth Quarter and Record Year End 2019 Financial Results",0.0,1.0,0.0,0.0
+LIQT,2020-03-26,07:00AM,"LiqTech International, Inc. to Host Earnings Call",0.0,1.0,0.0,0.0
+LIQT,2020-03-13,09:00AM,"LiqTech International, Inc. to Discuss Fiscal Year 2019 Results on Thursday, March 26, 2020",0.0,1.0,0.0,0.0
+LIQT,2020-02-26,09:00AM,LiqTech International to Present at 32nd Annual ROTH Conference,0.0,1.0,0.0,0.0
+LIQT,2020-01-21,06:00AM,LiqTech International Announces Preliminary 2019 Financial Results and Outlook for the First Quarter of 2020,0.0,1.0,0.0,0.0
+LIQT,2020-01-17,09:00AM,"Reminder: LiqTech International to Host Investor Day on Tuesday, January 21, 2020 in Denmark",0.0,1.0,0.0,0.0
+LIQT,2020-01-02,08:00AM,LiqTech Successfully Installs New Furnaces to Expand Manufacturing Capacity,0.0,0.56,0.44,0.6705
+LIQT,2019-12-24,10:49AM,3 Small-Cap Stocks Ready to Make a Big Splash,0.0,0.706,0.294,0.3612
+LIQT,2019-12-16,04:38PM,Hedge Funds Have Never Been This Bullish On LiqTech International Inc (LIQT),0.0,1.0,0.0,0.0
+LIQT,2019-11-30,01:48AM,Edited Transcript of LIQT earnings conference call or presentation 14-Nov-19 2:00pm GMT,0.0,1.0,0.0,0.0
+LIQT,2019-11-14,08:00AM,"LiqTech International, Inc. Announces Record Third Quarter 2019 Revenue and Net Income",0.0,1.0,0.0,0.0
+LIQT,2019-11-13,09:00AM,"LiqTech International to Host Investor Day on Tuesday, January 21, 2020 in Denmark",0.0,1.0,0.0,0.0
+LIQT,2019-10-30,04:15PM,"LiqTech International, Inc. to Discuss Third Quarter 2019 Results on Thursday, November 14, 2019",0.0,1.0,0.0,0.0
+LIQT,2019-09-10,03:18PM,Investors Can Find Big Returns with this First Profit Screen,0.0,0.756,0.244,0.4404
+LIQT,2019-09-04,09:00AM,LiqTech Closes Agreement to Acquire BS Plastics A/S,0.0,0.686,0.314,0.4939
+LIQT,2019-08-26,08:00AM,LiqTech Receives $8.4 Million Marine Scrubber Filtration Order from Large Shipowner and Provides Outlook for Year,0.0,1.0,0.0,0.0
+LIQT,2019-08-20,08:00AM,LiqTech Signs SPA to Acquire Plastics Manufacturer as Key Component of Margin Optimization Program,0.0,0.833,0.167,0.3818
+LIQT,2019-08-14,08:00AM,"LiqTech International, Inc. Announces Record Second Quarter 2019 Financial Results",0.0,1.0,0.0,0.0
+LIQT,2019-08-01,09:00AM,"LiqTech International, Inc. to Discuss Second Quarter 2019 Results on Wednesday, August 14, 2019",0.0,1.0,0.0,0.0
+LIQT,2019-07-18,10:11AM,"Zacks.com featured highlights include: AllianceBernstein, LiqTech International, Amadeus IT, Plantronics and Aerojet Rocketdyne",0.0,1.0,0.0,0.0
+LIQT,2019-07-17,08:31AM,5 Stocks in Focus as Analysts Initiate Coverage,0.0,1.0,0.0,0.0
+LIQT,2019-05-22,07:00AM,"LiqTech International, Inc. Announces Pricing Of Its Upsized Public Offering Of Common Stock",0.0,1.0,0.0,0.0
+LIQT,2019-05-22,02:44AM,Why These Stocks Are On The Move,0.0,1.0,0.0,0.0
+LIQT,2019-05-21,04:15PM,"LiqTech International, Inc. Announces Proposed Public Offering Of Common Stock",0.0,1.0,0.0,0.0
+LIQT,2019-05-14,08:00AM,"LiqTech International, Inc. Announces First Quarter 2019 Financial Results",0.0,1.0,0.0,0.0
+LIQT,2019-05-08,10:23AM,Will APC Segment Aid Fuel Tech (FTEK) This Earnings Season?,0.0,1.0,0.0,0.0
+LIQT,2019-05-07,10:30AM,LiqTech (LIQT) Earnings Expected to Grow: What to Know Ahead of Next Week's Release,0.0,1.0,0.0,0.0
+LIQT,2019-05-07,09:00AM,"LiqTech International to Host Investor Day on Monday, June 3, 2019 in New York",0.0,1.0,0.0,0.0
+LIQT,2019-04-30,09:05AM,"LiqTech International, Inc. to Discuss First Quarter 2019 Results on Tuesday, May 14, 2019",0.0,1.0,0.0,0.0
+LIQT,2019-04-15,09:00AM,"LiqTech International, Inc. to Ring the Nasdaq Stock Market Closing Bell on April 17, 2019",0.0,1.0,0.0,0.0
+LIQT,2019-03-28,06:32AM,"LiqTech International, Inc. Pre-Announces Record First Quarter 2019 Revenue and Profitability, Growing Order Backlog, and Intent to List on Nasdaq",0.0,0.826,0.174,0.4215
+LIQT,2019-03-28,06:30AM,"LiqTech International, Inc. Announces Year End 2018 Financial Results and Provides First Quarter 2019 Update",0.0,1.0,0.0,0.0
+LIQT,2019-03-11,04:15PM,LiqTech International Announces the Appointment of Peter Leifland to its Board of Directors,0.0,1.0,0.0,0.0
+LIQT,2019-03-05,09:00AM,"LiqTech International to Discuss Its Year End 2018 Financial Results and Provide a First Quarter 2019 Update on March 28, 2019",0.0,1.0,0.0,0.0
+LIQT,2019-02-01,11:30AM,"LD Micro Welcomes Nearly 1,000 Companies to the LD Micro Index",0.0,0.787,0.213,0.4019
+LIQT,2019-01-29,10:51AM,"Have Insiders Been Selling LiqTech International, Inc. (NYSEMKT:LIQT) Shares?",0.0,0.784,0.216,0.296
