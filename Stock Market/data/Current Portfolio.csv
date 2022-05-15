@@ -1,0 +1,13 @@
+﻿Date,Description,Ticker,Action,Shares, Amount , Amount  ,Commission ,Reg Fee ,Details
+26 Apr 2022,Bought 4 FSI @ 3.02,FSI,Buy,4, $(3.02), $(12.08),0,0,
+26 Apr 2022,Bought 5 LIQT @ 1.7,LIQT,Buy,5, $(1.70), $(8.50),0,0,
+26 Apr 2022,Bought 3 GEVO @ 3.82,GEVO,Buy,3, $(3.82), $(11.46),0,0,
+26 Apr 2022,Bought 5 WRAP @ 2.85,WRAP,Buy,5, $(2.85), $(14.25),0,0,
+29 Apr 2022,Bought 5 USDP @ 6.79,USDP,Buy,5, $(6.79), $(33.95),0,0,
+29 Apr 2022,Bought 5 SLDP @ 8.22,SLDP,Buy,5, $(8.22), $(41.10),0,0,
+29 Apr 2022,Bought 5 ACHR @ 4.61,ACHR,Buy,5, $(4.61), $(23.05),0,0,
+05 May 2022,Bought 2 LTHM @ 29,LTHM,Buy,2, $(29.00), $(58.00),0,0,
+09 May 2022,Bought 1 MNTS @ 2.93,MNTS,Buy,1, $(2.93), $(2.93),0,0,
+09 May 2022,Bought 2 PCT @ 8.01,PCT,Buy,2, $(8.01), $(16.02),0,0,
+10 May 2022,Sold 5 WRAP @ 2.3601,WRAP,Sell,-5, $2.36 , $11.80 ,0,0,
+10 May 2022,Bought 5 MNTS @ 2.675,MNTS,Buy,5, $(2.68), $(13.38),0,0,
