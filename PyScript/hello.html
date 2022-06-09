@@ -5,10 +5,12 @@
       <py-env>
         - numpy
         - matplotlib
+        - pandas
       </py-env>
     </head>
 
   <body>
+    
     <h1>Let's plot random numbers</h1>
     <div id="plot"></div>
     <py-script output="plot">
@@ -22,5 +24,10 @@
       ax.scatter(x, y)
       fig
     </py-script>
+    <br>
+    <h1>Tabulated data</h1>
+    df = pd.DataFrame(x, columns = ['X'])
+    df['Y'] = y
+    print(df)
   </body>
 </html>
